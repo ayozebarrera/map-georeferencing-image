@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="12"
+   height="12"
+   id="svg3122"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="rail-12.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#4499ee"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1233"
+     inkscape:window-height="673"
+     id="namedview6309"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:zoom="32"
+     inkscape:cx="8.9644291"
+     inkscape:cy="4.3939283"
+     inkscape:window-x="57"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3122"
+     inkscape:snap-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6316"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3124" />
+  <metadata
+     id="metadata3127">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#fefef1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans"
+     d="M 6,0 C 4.9821429,0 4.1252447,0.21858688 3.46875,0.65625 2.8122553,1.0939131 2.3884714,1.7230573 2.09375,2.3125 2.0301316,2.4488007 1.9978177,2.5995992 2,2.75 l 0,4.5 c -0.00218,0.1504008 0.030132,0.3011993 0.09375,0.4375 l 0.25,0.5 c 0.045979,0.1034602 0.1096824,0.1990158 0.1875,0.28125 l 0.0625,0.0625 -1.125,1.34375 C 1.3283258,10.050763 1.2498321,10.27503 1.25,10.5 l 0,0.5 c 5.24e-5,0.523584 0.4764155,0.999948 1,1 l 1.5,0 c 0.4315907,0.0039 0.8473467,-0.304568 0.96875,-0.71875 L 5.15625,9.75 l 1.6875,0 0.4375,1.53125 C 7.4026533,11.695432 7.8184093,12.003896 8.25,12 l 1.5,0 c 0.523584,-5.2e-5 0.999948,-0.476416 1,-1 l 0,-0.5 c 1.68e-4,-0.22497 -0.07833,-0.449237 -0.21875,-0.625 l -1.125,-1.34375 0.0625,-0.0625 C 9.5465676,8.3865158 9.6102714,8.2909602 9.65625,8.1875 l 0.25,-0.5 C 9.9698684,7.5511993 10.002182,7.4004008 10,7.25 l 0,-4.5 C 10.002182,2.5995992 9.9698684,2.4488007 9.90625,2.3125 9.6115286,1.7230573 9.1877447,1.0939131 8.53125,0.65625 7.8747553,0.21858688 7.0178571,0 6,0 z"
+     id="path2991"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="ssccccccccccccccccccccccccccccss" />
+  <rect
+     style="color:#000000;fill:#00ccff;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     id="rect3765"
+     width="12"
+     height="12"
+     x="0"
+     y="-1.1760707e-15" />
+  <path
+     style="color:#000000;fill:#000363;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+     d="M 6 1 C 4.25 1 3.5 1.75 3 2.75 L 3 7.25 L 3.25 7.75 L 3.75 8.25 L 4.25 8.5 L 5 8.75 L 7 8.75 L 7.75 8.5 L 8.25 8.25 L 8.75 7.75 L 9 7.25 L 9 2.75 C 8.5 1.75 7.75 1 6 1 z M 5 2 L 7 2 L 7.5 2.25 L 8 3.25 L 7.5 3.75 L 7 4 L 5 4 L 4.5 3.75 L 4 3.25 L 4.5 2.25 L 5 2 z M 6 4.84375 C 6.3550402 4.84375 6.65625 5.1449598 6.65625 5.5 C 6.65625 5.8550402 6.3550402 6.15625 6 6.15625 C 5.6449598 6.15625 5.34375 5.8550402 5.34375 5.5 C 5.34375 5.1449598 5.6449598 4.84375 6 4.84375 z M 3.75 9 L 2.5 10.5 L 2.5 11 L 3.75 11 L 4.5 9.25 L 4.5 9 L 3.75 9 z M 7.5 9 L 7.5 9.25 L 8.25 11 L 9.5 11 L 9.5 10.5 L 8.25 9 L 7.5 9 z "
+     id="path24879" />
+</svg>

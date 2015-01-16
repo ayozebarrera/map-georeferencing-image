@@ -1,0 +1,29 @@
+_prefs: 
+  baselayer: ''
+  mapid: ayozemitcanet.1b2adb03
+  saveCenter: true
+_properties: {}
+attribution: "<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>"
+bounds: 
+  - -180
+  - -85.0511
+  - 180
+  - 85.0511
+center: 
+  - -15.4971
+  - 27.9458
+  - 13
+description: ''
+format: "png8:m=h"
+interactivity_layer: ''
+layers: null
+maxzoom: 18
+minzoom: 0
+name: Georeferencing
+source: "mapbox:///mapbox.satellite,mapbox.mapbox-streets-v5"
+styles: 
+  - style.mss
+  - roads.mss
+  - terrain.mss
+  - labels.mss
+template: ''
