@@ -82,3 +82,7 @@ Map {
   		line-color: darken(@tan, 50%);
     }
 }
+
+#ayozemitcanet_5b01b27f{
+  polygon-opacity: 1;
+}
