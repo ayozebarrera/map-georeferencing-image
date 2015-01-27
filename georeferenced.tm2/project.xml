@@ -5,12 +5,12 @@
 <Parameters>
   <Parameter name="attribution"><![CDATA[<a href='https://www.mapbox.com/about/maps/' target='_blank'>&copy; Mapbox &copy; OpenStreetMap</a> <a class='mapbox-improve-map' href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a>]]></Parameter>
   <Parameter name="bounds">-180,-85.0511,180,85.0511</Parameter>
-  <Parameter name="center">-15.4162,28.0997,15</Parameter>
+  <Parameter name="center">-15.4173,28.1001,15</Parameter>
   <Parameter name="format">png8:m=h</Parameter>
   <Parameter name="maxzoom">18</Parameter>
   <Parameter name="minzoom">0</Parameter>
   <Parameter name="name"><![CDATA[Georeferencing]]></Parameter>
-  <Parameter name="source"><![CDATA[mapbox:///mapbox.satellite,mapbox.mapbox-streets-v5,ayozemitcanet.5b01b27f]]></Parameter>
+  <Parameter name="source"><![CDATA[mapbox:///mapbox.satellite,mapbox.mapbox-streets-v5,josenmar.4lz3erk9]]></Parameter>
 </Parameters>
 
 <FontSet name="fontset-0">
@@ -8732,13 +8732,13 @@
   srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
       </Layer>
 
-<Style name="ayozemitcanet_5b01b27f" filter-mode="first">
+<Style name="josenmar_4lz3erk9" filter-mode="first">
   <Rule>
-    <PolygonSymbolizer fill-opacity="1" />
+    <RasterSymbolizer opacity="0.7" />
   </Rule>
 </Style>
-<Layer name="ayozemitcanet_5b01b27f"
+<Layer name="josenmar_4lz3erk9"
   srs="+proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0.0 +k=1.0 +units=m +nadgrids=@null +wktext +no_defs +over">
-    <StyleName>ayozemitcanet_5b01b27f</StyleName>  </Layer>
+    <StyleName>josenmar_4lz3erk9</StyleName>  </Layer>
 
 </Map>

@@ -70,7 +70,7 @@ var siteHandler = {
 
 		//af9d9d26 municipios
 		L.mapbox.accessToken = 'pk.eyJ1IjoiYXlvemVtaXRjYW5ldCIsImEiOiJBd0VOLTZjIn0.A4XIkQqKKcCp6pvhrFidVA';
-		var map = L.mapbox.map('map', 'ayozemitcanet.1b2adb03');
+		var map = L.mapbox.map('map', 'josenmar.6f6279e1');
 		L.control.scale().addTo(map);
 
 		function addLayer(layer, name, zIndex) {

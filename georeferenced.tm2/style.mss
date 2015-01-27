@@ -83,6 +83,6 @@ Map {
     }
 }
 
-#ayozemitcanet_5b01b27f{
-  polygon-opacity: 1;
+#josenmar_4lz3erk9{
+ raster-opacity: 0.7;
 }

@@ -10,8 +10,8 @@ bounds:
   - 180
   - 85.0511
 center: 
-  - -15.4162
-  - 28.0997
+  - -15.4173
+  - 28.1001
   - 15
 description: ''
 format: "png8:m=h"
@@ -20,7 +20,7 @@ layers: null
 maxzoom: 18
 minzoom: 0
 name: Georeferencing
-source: "mapbox:///mapbox.satellite,mapbox.mapbox-streets-v5,ayozemitcanet.5b01b27f"
+source: "mapbox:///mapbox.satellite,mapbox.mapbox-streets-v5,josenmar.4lz3erk9"
 styles: 
   - style.mss
   - roads.mss
